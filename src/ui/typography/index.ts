@@ -1,0 +1,5 @@
+export { Heading2 } from './Heading2/Heading2'
+export { Heading3 } from './Heading3/Heading3'
+export { Body1 } from './Body1/Body1'
+export { Caption1 } from './Caption1/Caption1'
+export { ButtonText } from './ButtonText/ButtonText'
